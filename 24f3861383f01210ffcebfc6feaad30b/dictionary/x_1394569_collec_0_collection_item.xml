@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ff5c0a9b83f01210ffcebfc6feaad3a2" label="Collection Item" max_length="40" name="x_1394569_collec_0_collection_item" text_index="true" type="collection">
+        <element label="Value" max_length="40" name="value" type="integer"/>
+        <element label="Date purchased" max_length="40" name="date_purchased" type="glide_date"/>
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element display="true" label="Item" max_length="150" name="item" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Collection Tracker Workspace App Config">90ed1a13f3741210ca2df846a757d55b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">d0ed1a1325741210b403923a1e04514e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-09-27 21:15:59</sys_created_on>
+        <sys_id>d4ed1a13797412109dcfb44709244b4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1394569_collec_0">24f3861383f01210ffcebfc6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">24f3861383f01210ffcebfc6feaad30b</sys_scope>
+        <sys_update_name>sys_ux_app_route_d4ed1a13797412109dcfb44709244b4d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-09-27 21:15:59</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4ed1a13797412109dcfb44709244b4d"/>
+</record_update>

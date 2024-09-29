@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Collection Tracker Workspace">10ed1a137b74121036764955b8de1d54</dashboard>
+        <experience display_value="Collection Tracker Workspace">dced1a13a57412103fb3f4e110febc5a</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-09-27 21:15:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>54ed1a139e74121036f611d807a15b52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_1394569_collec_0">24f3861383f01210ffcebfc6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">24f3861383f01210ffcebfc6feaad30b</sys_scope>
+        <sys_update_name>par_dashboard_visibility_54ed1a139e74121036f611d807a15b52</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-09-27 21:15:58</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="Collection Tracker Workspace">10ed1a137b74121036764955b8de1d54</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-09-27 21:16:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>35ed5a1383741210ffcebfc6feaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10ed1a137b74121036764955b8de1d54</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_1394569_collec_0">24f3861383f01210ffcebfc6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">24f3861383f01210ffcebfc6feaad30b</sys_scope>
+        <sys_update_name>par_dashboard_permission_35ed5a1383741210ffcebfc6feaad3ef</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-09-27 21:16:03</sys_updated_on>
+        <user display_value="Creator User">eb61e6ba83301210ffcebfc6feaad372</user>
+    </par_dashboard_permission>
+</record_update>

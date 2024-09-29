@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="Collection Tracker Workspace">dced1a13a57412103fb3f4e110febc5a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-09-27 21:16:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>98ed1a135f74121068a269b9c858034a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1394569_collec_0">24f3861383f01210ffcebfc6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">24f3861383f01210ffcebfc6feaad30b</sys_scope>
+        <sys_update_name>sys_ux_page_property_98ed1a135f74121068a269b9c858034a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-09-27 21:16:00</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1394569_collec_0.dced1a13a57412103fb3f4e110febc5a.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=98ed1a135f74121068a269b9c858034a"/>
+</record_update>
